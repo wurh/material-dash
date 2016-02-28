@@ -1,2 +1,4 @@
 # material-dash
-material-dash  express
+
+> npm install
+> node index.js
